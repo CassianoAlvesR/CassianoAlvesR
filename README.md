@@ -2,7 +2,7 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=CassianoAlvesR&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoAlvesR"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoAlvesR&layout=compact"/>
 </div>
 
 <!--
