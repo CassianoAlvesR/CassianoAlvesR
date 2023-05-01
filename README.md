@@ -1,8 +1,8 @@
 ## Status
 
 <div>
-<img height="166px" src="https://github-readme-stats.vercel.app/api?username=CassianoAlvesR&layout=compact"/>
-<img height="166px" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoAlvesR&layout=compact"/>
+<img height="166px" width="50%" src="https://github-readme-stats.vercel.app/api?username=CassianoAlvesR&layout=compact"/>
+<img height="166px" width="50%" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoAlvesR&layout=compact"/>
 </div>
 
 <!--
